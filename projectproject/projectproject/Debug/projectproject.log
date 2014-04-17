@@ -1,0 +1,22 @@
+﻿Build started 17.04.2014 08:30:08.
+     1>Project "C:\Users\Einar\Desktop\New folder(3) - mbranch\projectproject\projectproject\projectproject.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Eiendom.cpp
+         Eiendom.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Einar\Desktop\New folder(3) - mbranch\projectproject\Debug\projectproject.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Einar\Desktop\New folder(3) - mbranch\projectproject\Debug\projectproject.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Einar\Desktop\New folder(3) - mbranch\projectproject\Debug\projectproject.lib" /MACHINE:X86 Debug\Bolig.obj
+         Debug\Eiendom.obj
+         Debug\Globalevariabler.obj
+         Debug\Intersone.obj
+         Debug\Kunde.obj
+         Debug\Kunder.obj
+         Debug\listtool2.obj
+         Debug\main.obj
+         Debug\Sone.obj
+         Debug\Soner.obj
+         projectproject.vcxproj -> C:\Users\Einar\Desktop\New folder(3) - mbranch\projectproject\Debug\projectproject.exe
+     1>Done Building Project "C:\Users\Einar\Desktop\New folder(3) - mbranch\projectproject\projectproject\projectproject.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.75
